@@ -1,6 +1,6 @@
 # CatsWar-Hacks
 If you don't want to compile this cheat you can download it from my [patreon](notcomplete.com). You can find all my compiled code projects on there.
-This only differnece bertween the external and internal is that the extern is portable. Although the internal is faster.
+This only difference between the external and internal is that the extern is portable. Although the internal is faster.
 
 #### This software was made by
 GLUR
