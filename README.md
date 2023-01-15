@@ -1,5 +1,5 @@
 # CatsWar-Hacks
-If you don't want to compile this cheat you can download it from my [patreon](notcomplete.com). You can find all my compiled code projects on there.
+If you don't want to compile this cheat you can download it from my [patreon](https://www.patreon.com/GLUR). You can find all my compiled code projects on there.
 
 The only difference between the external and internal is that the external is portable. Although the internal is faster.
 
